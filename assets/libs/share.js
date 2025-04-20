@@ -2,9 +2,9 @@ $(function () {
     //配置分享显示的相关信息
     //只需要修改 ***** 的相关内容
     var wxOption = {
-      title: '习近平邀请你视频通话', //标题 *********
+      title: '王磊邀请你视频通话', //标题 *********
       link: location.href, //连接 *********
-      imgUrl: 'https://h5.cctvnews.cctv.com/szdh2023/fx.png',
+      imgUrl: 'https://class.maochenhuan.cn/logo.png',
       desc: '点击接听', //分享时显示的描述 *********
     };
     var appId = 'wxed0f712040b969bf'; //appid *********
